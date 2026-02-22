@@ -1,5 +1,6 @@
 <img width="1918" height="1079" alt="Screenshot 2025-10-28 193249" src="https://github.com/user-attachments/assets/4a2a6e20-26e6-4cf4-a053-1def19c5e1f9" /># 🛍️ 
-<img width="1904" height="984" alt="Screenshot 2026-02-13 154130" src="https://github.com/user-attachments/assets/7a8e7c6a-84f0-4a4d-95e3-45bb8817387a" />
+![Uploading Screenshot 2026-02-22 133612.png…]()
+
 
 Customer Shopping Behavior — End-to-End Analytics (SQL + Power BI + Python)
 
